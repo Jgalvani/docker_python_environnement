@@ -1,0 +1,7 @@
+htop
+apt-utils
+docker
+vim
+net-tools
+python3
+python3-pip
